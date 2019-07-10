@@ -13,6 +13,16 @@ const c = '5'
   - menor ou igual a
 */
 
+console.log('igual a', b == c)
+console.log('identico a', b === c)
+console.log("diferente", b != c)
+console.log("realmente diferente", b !== c)
+console.log('maior', a > b)
+console.log('maior ou igual' a >= b)
+console.log('menor', a < b)
+console.log('menor ou igual', a <= b)
+
+
 
 /*
  Operadores Lógicos
